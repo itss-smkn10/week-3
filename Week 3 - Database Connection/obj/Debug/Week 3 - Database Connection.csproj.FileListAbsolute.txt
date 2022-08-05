@@ -1,0 +1,11 @@
+E:\LKS IT Software Solution for Business\Guest Teacher\Week 3 - Database Connection\Week 3 - Database Connection\bin\Debug\Week 3 - Database Connection.exe.config
+E:\LKS IT Software Solution for Business\Guest Teacher\Week 3 - Database Connection\Week 3 - Database Connection\bin\Debug\Week 3 - Database Connection.exe
+E:\LKS IT Software Solution for Business\Guest Teacher\Week 3 - Database Connection\Week 3 - Database Connection\bin\Debug\Week 3 - Database Connection.pdb
+E:\LKS IT Software Solution for Business\Guest Teacher\Week 3 - Database Connection\Week 3 - Database Connection\obj\Debug\Week 3 - Database Connection.csproj.AssemblyReference.cache
+E:\LKS IT Software Solution for Business\Guest Teacher\Week 3 - Database Connection\Week 3 - Database Connection\obj\Debug\Week 3 - Database Connection.csproj.SuggestedBindingRedirects.cache
+E:\LKS IT Software Solution for Business\Guest Teacher\Week 3 - Database Connection\Week 3 - Database Connection\obj\Debug\Week_3___Database_Connection.Form1.resources
+E:\LKS IT Software Solution for Business\Guest Teacher\Week 3 - Database Connection\Week 3 - Database Connection\obj\Debug\Week_3___Database_Connection.Properties.Resources.resources
+E:\LKS IT Software Solution for Business\Guest Teacher\Week 3 - Database Connection\Week 3 - Database Connection\obj\Debug\Week 3 - Database Connection.csproj.GenerateResource.cache
+E:\LKS IT Software Solution for Business\Guest Teacher\Week 3 - Database Connection\Week 3 - Database Connection\obj\Debug\Week 3 - Database Connection.csproj.CoreCompileInputs.cache
+E:\LKS IT Software Solution for Business\Guest Teacher\Week 3 - Database Connection\Week 3 - Database Connection\obj\Debug\Week 3 - Database Connection.exe
+E:\LKS IT Software Solution for Business\Guest Teacher\Week 3 - Database Connection\Week 3 - Database Connection\obj\Debug\Week 3 - Database Connection.pdb
