@@ -24,6 +24,24 @@ namespace Week_3___Database_Connection
         private void Form1_Load(object sender, EventArgs e)
         {
             loadDgv();
+            loadCbRole();
+        }
+
+        private void loadCbRole()
+        {
+            cbRole.Items.Clear();
+
+            openConection();
+
+            string query = "SELECT * FROM Role";
+            SqlDataAdapter sqlDataAdapter = new SqlDataAdapter(query, sqlConnection);
+
+            DataTable dt = new DataTable();
+            sqlDataAdapter.Fill(dt);
+
+            cbRole.DataSource = dt;
+            cbRole.ValueMember = "Id";
+            cbRole.DisplayMember = "Name";
         }
 
         private void loadDgv()
