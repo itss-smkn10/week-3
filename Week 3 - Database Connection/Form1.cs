@@ -83,7 +83,7 @@ namespace Week_3___Database_Connection
             {
                 openConection();
 
-                SqlCommand cmd = new SqlCommand($"INSERT INTO Customer VALUES ('{txtID.Text}', '{txtName.Text}', '{txtEmal.Text}', '{txtPhoneNumber.Text}')", sqlConnection);
+                SqlCommand cmd = new SqlCommand($"INSERT INTO Customer (Id, Name, Email, PhoneNumber) VALUES ('{txtID.Text}', '{txtName.Text}', '{txtEmal.Text}', '{txtPhoneNumber.Text}')", sqlConnection);
                 cmd.ExecuteNonQuery();
                 MessageBox.Show("Insert Success!");
 
